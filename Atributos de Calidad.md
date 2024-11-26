@@ -14,6 +14,10 @@
 * Los componentes críticos, como el servicio de gestión de clientes, pagos y reparto, deben tener alta disponibilidad para evitar interrupciones.
 * Los servicios menos críticos, como el de estadísticas, pueden tener una menor prioridad en cuanto a la disponibilidad.
 
+### Mantenibilidad
+* La nueva arquitectura debe facilitar el mantenimeiento del sistema, permitiendo actualizaciones y mejoras en componentes individuales sin afectar a los demás
+* El desacoplamiento del sistema debe permitir agregar nuevos módulos y servicios con facilidad.
+
 ### Performance
 * El sistema debe garantizar tiempos de respuesta rápidos, especialmente en los componentes de gestión de pedidos y pagos.
 * Optimización del rendimiento en el procesamiento de pedidos y en la selección de rutas de camiones.
