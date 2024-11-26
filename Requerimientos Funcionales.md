@@ -29,3 +29,7 @@
 **Gestión de Incidencias y Pedidos**:
    - El sistema debe ser capaz de gestionar y registrar las incidencias relacionadas con los pedidos.
    - Ofrecer un sistema centralizado para gestionar todas las solicitudes de los pedidos de los clientes.
+
+**Protocolo HTTP/REST**:
+   - Sustituir el acceso a la base de datos monolítica actual por un sistema de microservicios que utilice HTTP/REST para acceder a las bases de datos (Clientes y Pedidos) desde las aplicaciones cliente (PC y móvil).
+
