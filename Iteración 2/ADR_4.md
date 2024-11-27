@@ -15,7 +15,7 @@ En nuestra arquitectura de microservicios para el sistema de gestión de product
 Siguiendo también los [requerimientos funcionales](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Requerimientos%20Funcionales.md)
 en los cuales tenemos servicios criticos y otros no tanto, debemos asegurar que cada uno pueda acceder a sus registros.  
 
-## Opciones Consideradas
+## Opciones consideradas
 - Mantener bases de datos compartidas (actual arquitectura monolítica)
 - Implementar base de datos única centralizada con esquemas separados
 - Implementar base de datos independiente por microservicio
