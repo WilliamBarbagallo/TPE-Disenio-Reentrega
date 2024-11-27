@@ -6,7 +6,7 @@ Para iniciar el proceso, primero se debe decidir con qué criterio se van a sepa
 ## Decision Drivers
 Los criterios en los que se tienen que separar los microservicios se encuentran [acá](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Requerimientos%20Funcionales.md).
 
-## Considered Options
+## Opciones consideradas
 1. **Descomposición por Capacidad de Negocio**  
    **Pros:**
    - Alineación directa con dominios de negocio.
