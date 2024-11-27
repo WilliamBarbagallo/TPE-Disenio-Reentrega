@@ -10,7 +10,7 @@ El flujo secuencial actual genera tiempos de espera que podrían reducirse si al
 - **[Performance](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Atributos%20de%20Calidad.md#performance)**
 - El requerimiento funcional del **[microservicio Pedido](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Requerimientos%20Funcionales.md#pedidos-semi-cr%C3%ADtico)**
 
-## Considered Options
+## Opciones consideradas
 ### 1. Mantener el flujo secuencial actual (sin cambios)
 - **Ventaja:** Mantiene la simplicidad del diseño actual y la consistencia del flujo.
 - **Desventaja:** Genera una latencia mayor y baja escalabilidad, lo que afecta la experiencia del usuario en momentos de alta demanda.
