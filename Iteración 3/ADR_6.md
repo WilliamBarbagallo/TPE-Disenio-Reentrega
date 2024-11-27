@@ -5,7 +5,7 @@ El proceso de pedidos en la arquitectura actual de la compañía sigue una secue
 
 El flujo secuencial actual genera tiempos de espera que podrían reducirse si algunos pasos pudieran ejecutarse en paralelo, siempre y cuando no se afecte la lógica del negocio. Además, el sistema necesita ser escalable para manejar picos de carga, y el proceso debe seguir siendo coherente y fiable, garantizando que no se omitan pasos críticos.
 
-## Decision Drivers
+## Drivers de decisión
 - **[Escalabilidad](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Atributos%20de%20Calidad.md#escalabilidad)**
 - **[Performance](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Atributos%20de%20Calidad.md#performance)**
 - El requerimiento funcional del **[microservicio Pedido](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Requerimientos%20Funcionales.md#pedidos-semi-cr%C3%ADtico)**
