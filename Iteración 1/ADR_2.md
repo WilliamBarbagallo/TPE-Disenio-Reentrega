@@ -3,7 +3,7 @@
 ## Contexto y declaración del problema
 Para iniciar el proceso, primero se debe decidir con qué criterio se van a separar los microservicios y cómo será la comunicación entre ellos.
 
-## Decision Drivers
+## Drivers de decisión
 Los criterios en los que se tienen que separar los microservicios se encuentran [acá](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Requerimientos%20Funcionales.md).
 
 ## Opciones consideradas
