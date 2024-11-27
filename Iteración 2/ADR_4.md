@@ -1,5 +1,6 @@
 # ADR_4:Bases de Datos Independientes por Microservicio
-Contexto y Planteamiento del Problema
+## Contexto y Planteamiento del Problema
+
 En nuestra arquitectura de microservicios para el sistema de gestión de productos alimenticios, necesitamos definir una estrategia para el almacenamiento de datos. Actualmente, el sistema monolítico utiliza dos bases de datos SQL compartidas para toda la aplicación. Surge la cuestión de si debemos mantener este modelo de bases de datos compartidas o adoptar un enfoque de base de datos independiente por microservicio.
 
 ## Drivers de Decisión
