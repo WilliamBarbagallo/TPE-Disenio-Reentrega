@@ -3,7 +3,7 @@
 ## Contexto y declaración del problema
 La aplicación en desarrollo requiere una arquitectura modular y escalable que permita el desarrollo, despliegue y escalado independiente de sus diferentes funcionalidades. Para lograr esto, se tomó la decisión de implementar un diseño basado en microservicios, donde cada capacidad de negocio distintiva se encapsula en un servicio separado.
 
-## Decision Drivers
+## Drivers de decisión
 - [Escalabilidad](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Atributos%20de%20Calidad.md#escalabilidad)
 - [Disponibilidad](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Atributos%20de%20Calidad.md#disponibilidad)
 - [Mantenibilidad](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Atributos%20de%20Calidad.md#mantenibilidad)
