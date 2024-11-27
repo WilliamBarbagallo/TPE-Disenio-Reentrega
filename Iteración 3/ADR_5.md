@@ -16,7 +16,7 @@ Para mitigar estos riesgos, se requiere una solución que permita distribuir la 
 - [Performance](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Atributos%20de%20Calidad.md#performance)
 - [Requerimiento funcional del microservicio Cliente](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Requerimientos%20Funcionales.md#clientes-cr%C3%ADtico)
 
-## Considered Options
+## Opciones consideradas
 1. **No implementar balanceo de carga**  
    **Ventaja:** Menor complejidad inicial.  
    **Desventaja:** Las solicitudes serían gestionadas por una única instancia o con un sistema básico de asignación manual, lo que resultaría en problemas de disponibilidad, rendimiento y escalabilidad.
