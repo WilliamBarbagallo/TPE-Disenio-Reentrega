@@ -10,7 +10,7 @@ La alta concurrencia en el acceso a este microservicio puede provocar problemas 
 
 Para mitigar estos riesgos, se requiere una solución que permita distribuir la carga de manera eficiente entre múltiples instancias del microservicio.
 
-## Decision Drivers
+## Drivers de decisión
 - [Escalabilidad](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Atributos%20de%20Calidad.md#escalabilidad)
 - [Disponibilidad](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Atributos%20de%20Calidad.md#disponibilidad)
 - [Performance](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Atributos%20de%20Calidad.md#performance)
