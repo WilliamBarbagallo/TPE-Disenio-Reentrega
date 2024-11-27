@@ -8,7 +8,7 @@ El flujo secuencial actual genera tiempos de espera que podrían reducirse si al
 ## Decision Drivers
 - **[Escalabilidad](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Atributos%20de%20Calidad.md#escalabilidad)**
 - **[Performance](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Atributos%20de%20Calidad.md#performance)**
-- El requerimiento funcional del **[microservicio pedido](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Requerimientos%20Funcionales.md#pedidos-semi-cr%C3%ADtico)**
+- El requerimiento funcional del **[microservicio Pedido](https://github.com/WilliamBarbagallo/TPE-Disenio-Reentrega-Grupo12/blob/main/Requerimientos%20Funcionales.md#pedidos-semi-cr%C3%ADtico)**
 
 ## Considered Options
 ### 1. Mantener el flujo secuencial actual (sin cambios)
