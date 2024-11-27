@@ -1,8 +1,8 @@
-###Clientes (Crítico):
+### Clientes (Crítico):
    - Permitir el acceso y la gestión de los datos personales de los clientes.
    - El sistema debe garantizar la protección y seguridad de los datos de los clientes.
    
-**Pedidos (Semi-crítico)**:
+### Pedidos (Semi-crítico):
    - Permitir a los clientes realizar pedidos de productos a la empresa.
    - Limitar los intentos de realización de pedidos a un máximo de 3.
    - Gestionar el flujo de procesamiento de pedidos en tres fases: preprocesado, autorización y aceptación. Cada fase debe completarse correctamente antes de pasar a la siguiente.
